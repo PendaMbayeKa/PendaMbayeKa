@@ -1,16 +1,30 @@
-## Hi there 👋
+# Penda - Data Analysis Portfolio 📊
 
-<!--
-**PendaMbayeKa/PendaMbayeKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Penda, a multilingual professional transitioning into the field of data analysis. With a background in banking operations 🏦 and a degree in Business Studies 📚, I'm currently expanding my technical skills through a Digital Skills Bootcamp 💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+*   Data Analysis & Interpretation 🔍
+*   Data Visualization (Tableau, Power BI) 📈
+*   SQL Database Management 🗄️
+*   Python Programming 🐍
+*   Cloud Computing (Azure) ☁️
+*   MS Excel 📈
+
+## Bootcamp Modules: Fundamentals
+
+*   Excel Fundamentals 📈
+*   Data Visualization (Tableau & Power BI Fundamentals) 📊
+*   SQL Database Management Basics 🗄️
+*   Cloud Computing with Azure Fundamentals☁️
+*   Python Basics 🐍
+
+## Projects
+
+*(This section will showcase some of the work I have done in data analytics)*
+
+## Connect with Me
+
+[LinkedIn]() 💼
