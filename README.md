@@ -21,9 +21,7 @@ Hello! I'm Penda, a multilingual professional transitioning into the field of da
 *   Cloud Computing with Azure Fundamentals☁️
 *   Python Basics 🐍
 
-## Projects
 
-*(This section will showcase some of the work I have done in data analytics)*
 
 ## Connect with Me
 
